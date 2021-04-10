@@ -14,7 +14,6 @@ import kotlin.test.assertEquals
 
 class KmongoTest {
 
-
     private val persons = listOf(
         Person(name = "James", age = 12)
     )
