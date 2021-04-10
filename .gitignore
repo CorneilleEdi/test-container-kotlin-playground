@@ -1,0 +1,7 @@
+# Intellij
+*.iml
+.idea
+
+#gradle
+.gradle
+build/
